@@ -1,0 +1,51 @@
+package okta
+
+import (
+	"fmt"
+	"log"
+	"strings"
+
+	"github.com/hashicorp/terraform/helper/schema"
+	"github.com/hashicorp/terraform/helper/validation"
+)
+
+func resource{{resource.pascalName}}() *schema.Resource {
+	return &schema.Resource{
+		Create: resource{{resource.pascalName}}Create,
+		Delete: resource{{resource.pascalName}}Delete,
+		Exists: resourceUserExists,
+		Read:   resource{{resource.pascalName}}Read,
+		Update: resource{{resource.pascalName}}Update,
+		Importer: &schema.ResourceImporter{
+			State: schema.ImportStatePassthrough,
+		},
+
+		Schema: map[string]*schema.Schema{
+		{{#each resource.properties properties as |prop|}}
+			{{prop.key}}: &schema.Schema{
+				{{prop.schema}}
+			},
+		{{/each}}
+		},
+	}
+}
+
+func resourceUserCreate(d *schema.ResourceData, m interface{}) error {
+	return resource{{resource.pascalName}}Read(d, m)
+}
+
+func resourceUserRead(d *schema.ResourceData, m interface{}) error {
+	return nil
+}
+
+func resourceUserUpdate(d *schema.ResourceData, m interface{}) error {
+	return resource{{resource.pascalName}}Read(d, m)
+}
+
+func resourceUserDelete(d *schema.ResourceData, m interface{}) error {
+	return nil
+}
+
+func resourceUserExists(d *schema.ResourceData, m interface{}) (bool, error) {
+	return false, nil
+}

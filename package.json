@@ -1,0 +1,13 @@
+{
+  "name": "terraform-provider-automation",
+  "version": "0.1.0",
+  "description": "Tools for automating the creation of terraform providers for given API",
+  "main": "index.js",
+  "author": "Andy Gertjejansen",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "handlebars": "^4.0.12",
+    "lodash": "^4.17.11"
+  }
+}

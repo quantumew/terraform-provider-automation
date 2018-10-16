@@ -1,0 +1,795 @@
+[
+  {
+    "id": "00ue6j5u9uwRnVxxr0h7",
+    "status": "PROVISIONED",
+    "created": "2018-03-01T20:37:28.000Z",
+    "activated": "2018-03-01T20:37:29.000Z",
+    "statusChanged": "2018-03-01T20:37:29.000Z",
+    "lastLogin": null,
+    "lastUpdated": "2018-03-01T20:37:29.000Z",
+    "passwordChanged": null,
+    "profile": {
+      "firstName": "Robert",
+      "lastName": "Pearce",
+      "mobilePhone": null,
+      "secondEmail": null,
+      "login": "rpearce@articulate.com",
+      "email": "rpearce@articulate.com"
+    },
+    "credentials": {
+      "provider": {
+        "type": "OKTA",
+        "name": "OKTA"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://rise-dev.oktapreview.com/api/v1/users/00ue6j5u9uwRnVxxr0h7"
+      }
+    }
+  },
+  {
+    "id": "00ue6jbd7o51gbpTi0h7",
+    "status": "PROVISIONED",
+    "created": "2018-03-01T20:34:29.000Z",
+    "activated": "2018-03-01T20:34:30.000Z",
+    "statusChanged": "2018-03-01T20:34:30.000Z",
+    "lastLogin": null,
+    "lastUpdated": "2018-03-01T20:34:30.000Z",
+    "passwordChanged": null,
+    "profile": {
+      "firstName": "Patrick",
+      "lastName": "Klingemann",
+      "mobilePhone": null,
+      "secondEmail": null,
+      "login": "pklingemann@articulate.com",
+      "email": "pklingemann@articulate.com"
+    },
+    "credentials": {
+      "provider": {
+        "type": "OKTA",
+        "name": "OKTA"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://rise-dev.oktapreview.com/api/v1/users/00ue6jbd7o51gbpTi0h7"
+      }
+    }
+  },
+  {
+    "id": "00uf19qxrlfWk9bbu0h7",
+    "status": "PROVISIONED",
+    "created": "2018-05-14T20:22:28.000Z",
+    "activated": "2018-09-18T12:59:34.000Z",
+    "statusChanged": "2018-09-18T12:59:34.000Z",
+    "lastLogin": "2018-05-15T01:17:22.000Z",
+    "lastUpdated": "2018-09-18T12:59:34.000Z",
+    "passwordChanged": "2018-05-15T01:17:22.000Z",
+    "profile": {
+      "firstName": "Rachel",
+      "lastName": "Donovan",
+      "mobilePhone": null,
+      "secondEmail": null,
+      "login": "rdonovan@articulate.com",
+      "email": "rdonovan@articulate.com"
+    },
+    "credentials": {
+      "recovery_question": {
+        "question": "What is the food you least liked as a child?"
+      },
+      "provider": {
+        "type": "OKTA",
+        "name": "OKTA"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://rise-dev.oktapreview.com/api/v1/users/00uf19qxrlfWk9bbu0h7"
+      }
+    }
+  },
+  {
+    "id": "00ugmavxveldwpjRa0h7",
+    "status": "PROVISIONED",
+    "created": "2018-10-11T20:31:31.000Z",
+    "activated": "2018-10-11T20:31:31.000Z",
+    "statusChanged": "2018-10-11T20:31:31.000Z",
+    "lastLogin": null,
+    "lastUpdated": "2018-10-11T20:31:31.000Z",
+    "passwordChanged": null,
+    "profile": {
+      "firstName": "TestAcc",
+      "lastName": "blah",
+      "mobilePhone": null,
+      "secondEmail": null,
+      "login": "test-acc-974404674478207215@testing.com",
+      "email": "test-acc-974404674478207215@testing.com"
+    },
+    "credentials": {
+      "provider": {
+        "type": "OKTA",
+        "name": "OKTA"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://rise-dev.oktapreview.com/api/v1/users/00ugmavxveldwpjRa0h7"
+      }
+    }
+  },
+  {
+    "id": "00ugmbl2zqYTfEI7Q0h7",
+    "status": "PROVISIONED",
+    "created": "2018-10-11T20:54:55.000Z",
+    "activated": "2018-10-11T20:54:56.000Z",
+    "statusChanged": "2018-10-11T20:54:56.000Z",
+    "lastLogin": null,
+    "lastUpdated": "2018-10-11T20:54:56.000Z",
+    "passwordChanged": null,
+    "profile": {
+      "firstName": "TestAcc",
+      "lastName": "blah",
+      "mobilePhone": null,
+      "secondEmail": null,
+      "login": "test-acc-7201880111118251544@testing.com",
+      "email": "test-acc-7201880111118251544@testing.com"
+    },
+    "credentials": {
+      "provider": {
+        "type": "OKTA",
+        "name": "OKTA"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://rise-dev.oktapreview.com/api/v1/users/00ugmbl2zqYTfEI7Q0h7"
+      }
+    }
+  },
+  {
+    "id": "00ugmbl34bjKI5x420h7",
+    "status": "PROVISIONED",
+    "created": "2018-10-11T21:01:27.000Z",
+    "activated": "2018-10-11T21:01:28.000Z",
+    "statusChanged": "2018-10-11T21:01:28.000Z",
+    "lastLogin": null,
+    "lastUpdated": "2018-10-11T21:01:28.000Z",
+    "passwordChanged": null,
+    "profile": {
+      "firstName": "TestAcc",
+      "lastName": "blah",
+      "mobilePhone": null,
+      "secondEmail": null,
+      "login": "test-acc-798292979378025479@testing.com",
+      "email": "test-acc-798292979378025479@testing.com"
+    },
+    "credentials": {
+      "provider": {
+        "type": "OKTA",
+        "name": "OKTA"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://rise-dev.oktapreview.com/api/v1/users/00ugmbl34bjKI5x420h7"
+      }
+    }
+  },
+  {
+    "id": "00ugmbr65mzk2vDFA0h7",
+    "status": "PROVISIONED",
+    "created": "2018-10-11T20:57:24.000Z",
+    "activated": "2018-10-11T20:57:24.000Z",
+    "statusChanged": "2018-10-11T20:57:24.000Z",
+    "lastLogin": null,
+    "lastUpdated": "2018-10-11T20:57:24.000Z",
+    "passwordChanged": null,
+    "profile": {
+      "firstName": "TestAcc",
+      "lastName": "blah",
+      "mobilePhone": null,
+      "secondEmail": null,
+      "login": "test-acc-2152937872849383197@testing.com",
+      "email": "test-acc-2152937872849383197@testing.com"
+    },
+    "credentials": {
+      "provider": {
+        "type": "OKTA",
+        "name": "OKTA"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://rise-dev.oktapreview.com/api/v1/users/00ugmbr65mzk2vDFA0h7"
+      }
+    }
+  },
+  {
+    "id": "00ugmbs53b7ePOgsy0h7",
+    "status": "PROVISIONED",
+    "created": "2018-10-11T21:08:50.000Z",
+    "activated": "2018-10-11T21:08:51.000Z",
+    "statusChanged": "2018-10-11T21:08:51.000Z",
+    "lastLogin": null,
+    "lastUpdated": "2018-10-11T21:08:51.000Z",
+    "passwordChanged": null,
+    "profile": {
+      "firstName": "TestAcc",
+      "lastName": "blah",
+      "mobilePhone": null,
+      "secondEmail": null,
+      "login": "test-acc-146840818621563924@testing.com",
+      "email": "test-acc-146840818621563924@testing.com"
+    },
+    "credentials": {
+      "provider": {
+        "type": "OKTA",
+        "name": "OKTA"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://rise-dev.oktapreview.com/api/v1/users/00ugmbs53b7ePOgsy0h7"
+      }
+    }
+  },
+  {
+    "id": "00ugmbtkj7lzdnw9M0h7",
+    "status": "PROVISIONED",
+    "created": "2018-10-11T20:55:38.000Z",
+    "activated": "2018-10-11T20:55:39.000Z",
+    "statusChanged": "2018-10-11T20:55:39.000Z",
+    "lastLogin": null,
+    "lastUpdated": "2018-10-11T20:55:39.000Z",
+    "passwordChanged": null,
+    "profile": {
+      "firstName": "TestAcc",
+      "lastName": "blah",
+      "mobilePhone": null,
+      "secondEmail": null,
+      "login": "test-acc-8045547510344385672@testing.com",
+      "email": "test-acc-8045547510344385672@testing.com"
+    },
+    "credentials": {
+      "provider": {
+        "type": "OKTA",
+        "name": "OKTA"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://rise-dev.oktapreview.com/api/v1/users/00ugmbtkj7lzdnw9M0h7"
+      }
+    }
+  },
+  {
+    "id": "00ugmdg718VS6Km6E0h7",
+    "status": "PROVISIONED",
+    "created": "2018-10-11T22:10:31.000Z",
+    "activated": "2018-10-11T22:10:32.000Z",
+    "statusChanged": "2018-10-11T22:10:32.000Z",
+    "lastLogin": null,
+    "lastUpdated": "2018-10-11T22:10:32.000Z",
+    "passwordChanged": null,
+    "profile": {
+      "firstName": "TestAcc",
+      "lastName": "blah",
+      "mobilePhone": null,
+      "secondEmail": null,
+      "login": "test-acc-1784026834221930987@testing.com",
+      "email": "test-acc-1784026834221930987@testing.com"
+    },
+    "credentials": {
+      "provider": {
+        "type": "OKTA",
+        "name": "OKTA"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://rise-dev.oktapreview.com/api/v1/users/00ugmdg718VS6Km6E0h7"
+      }
+    }
+  },
+  {
+    "id": "00ugmf0xn0h5tUku50h7",
+    "status": "PROVISIONED",
+    "created": "2018-10-12T01:00:42.000Z",
+    "activated": "2018-10-12T01:00:43.000Z",
+    "statusChanged": "2018-10-12T01:00:43.000Z",
+    "lastLogin": null,
+    "lastUpdated": "2018-10-12T01:00:43.000Z",
+    "passwordChanged": null,
+    "profile": {
+      "firstName": "TestAcc",
+      "lastName": "blah",
+      "mobilePhone": null,
+      "secondEmail": null,
+      "login": "test-acc-2515177457972595196@testing.com",
+      "email": "test-acc-2515177457972595196@testing.com"
+    },
+    "credentials": {
+      "provider": {
+        "type": "OKTA",
+        "name": "OKTA"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://rise-dev.oktapreview.com/api/v1/users/00ugmf0xn0h5tUku50h7"
+      }
+    }
+  },
+  {
+    "id": "00ugmfi47hfPwfF3h0h7",
+    "status": "PROVISIONED",
+    "created": "2018-10-12T00:47:33.000Z",
+    "activated": "2018-10-12T00:47:33.000Z",
+    "statusChanged": "2018-10-12T00:47:33.000Z",
+    "lastLogin": null,
+    "lastUpdated": "2018-10-12T00:47:33.000Z",
+    "passwordChanged": null,
+    "profile": {
+      "firstName": "TestAcc",
+      "lastName": "blah",
+      "mobilePhone": null,
+      "secondEmail": null,
+      "login": "test-acc-1113306676872311407@testing.com",
+      "email": "test-acc-1113306676872311407@testing.com"
+    },
+    "credentials": {
+      "provider": {
+        "type": "OKTA",
+        "name": "OKTA"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://rise-dev.oktapreview.com/api/v1/users/00ugmfi47hfPwfF3h0h7"
+      }
+    }
+  },
+  {
+    "id": "00ugmpxo0tlPd5SDR0h7",
+    "status": "PROVISIONED",
+    "created": "2018-10-12T14:46:55.000Z",
+    "activated": "2018-10-12T14:46:55.000Z",
+    "statusChanged": "2018-10-12T14:46:55.000Z",
+    "lastLogin": null,
+    "lastUpdated": "2018-10-12T14:46:55.000Z",
+    "passwordChanged": null,
+    "profile": {
+      "firstName": "TestAcc",
+      "lastName": "blah",
+      "mobilePhone": null,
+      "secondEmail": null,
+      "login": "test-acc-4761255480701908656@testing.com",
+      "email": "test-acc-4761255480701908656@testing.com"
+    },
+    "credentials": {
+      "provider": {
+        "type": "OKTA",
+        "name": "OKTA"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://rise-dev.oktapreview.com/api/v1/users/00ugmpxo0tlPd5SDR0h7"
+      }
+    }
+  },
+  {
+    "id": "00ugmq3fc0GZYpJkI0h7",
+    "status": "PROVISIONED",
+    "created": "2018-10-12T14:46:01.000Z",
+    "activated": "2018-10-12T14:46:01.000Z",
+    "statusChanged": "2018-10-12T14:46:01.000Z",
+    "lastLogin": null,
+    "lastUpdated": "2018-10-12T14:46:01.000Z",
+    "passwordChanged": null,
+    "profile": {
+      "firstName": "TestAcc",
+      "lastName": "blah",
+      "mobilePhone": null,
+      "secondEmail": null,
+      "login": "test-acc-852487203437337245@testing.com",
+      "email": "test-acc-852487203437337245@testing.com"
+    },
+    "credentials": {
+      "provider": {
+        "type": "OKTA",
+        "name": "OKTA"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://rise-dev.oktapreview.com/api/v1/users/00ugmq3fc0GZYpJkI0h7"
+      }
+    }
+  },
+  {
+    "id": "00ugmq418ii7aC8QI0h7",
+    "status": "PROVISIONED",
+    "created": "2018-10-12T14:42:52.000Z",
+    "activated": "2018-10-12T14:42:52.000Z",
+    "statusChanged": "2018-10-12T14:42:52.000Z",
+    "lastLogin": null,
+    "lastUpdated": "2018-10-12T14:42:52.000Z",
+    "passwordChanged": null,
+    "profile": {
+      "firstName": "TestAcc",
+      "lastName": "blah",
+      "mobilePhone": null,
+      "secondEmail": null,
+      "login": "test-acc-6240629925865232282@testing.com",
+      "email": "test-acc-6240629925865232282@testing.com"
+    },
+    "credentials": {
+      "provider": {
+        "type": "OKTA",
+        "name": "OKTA"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://rise-dev.oktapreview.com/api/v1/users/00ugmq418ii7aC8QI0h7"
+      }
+    }
+  },
+  {
+    "id": "00ugmq418ysjXiKok0h7",
+    "status": "PROVISIONED",
+    "created": "2018-10-12T14:43:08.000Z",
+    "activated": "2018-10-12T14:43:08.000Z",
+    "statusChanged": "2018-10-12T14:43:08.000Z",
+    "lastLogin": null,
+    "lastUpdated": "2018-10-12T14:43:08.000Z",
+    "passwordChanged": null,
+    "profile": {
+      "firstName": "TestAcc",
+      "lastName": "blah",
+      "mobilePhone": null,
+      "secondEmail": null,
+      "login": "test-acc-6474505160484926094@testing.com",
+      "email": "test-acc-6474505160484926094@testing.com"
+    },
+    "credentials": {
+      "provider": {
+        "type": "OKTA",
+        "name": "OKTA"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://rise-dev.oktapreview.com/api/v1/users/00ugmq418ysjXiKok0h7"
+      }
+    }
+  },
+  {
+    "id": "00ue6iracz5ootpo50h7",
+    "status": "ACTIVE",
+    "created": "2018-03-01T18:48:13.000Z",
+    "activated": null,
+    "statusChanged": "2018-03-01T19:04:44.000Z",
+    "lastLogin": "2018-03-05T19:08:19.000Z",
+    "lastUpdated": "2018-03-01T19:04:44.000Z",
+    "passwordChanged": "2018-03-01T19:04:44.000Z",
+    "profile": {
+      "firstName": "Adam",
+      "lastName": "Ochonicki",
+      "mobilePhone": null,
+      "secondEmail": null,
+      "login": "ocho@articulate.com",
+      "email": "ocho@articulate.com"
+    },
+    "credentials": {
+      "password": {},
+      "recovery_question": {
+        "question": "What is the food you least liked as a child?"
+      },
+      "provider": {
+        "type": "OKTA",
+        "name": "OKTA"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://rise-dev.oktapreview.com/api/v1/users/00ue6iracz5ootpo50h7"
+      }
+    }
+  },
+  {
+    "id": "00ue6j9ye2XsDYZ9H0h7",
+    "status": "ACTIVE",
+    "created": "2018-03-01T20:35:08.000Z",
+    "activated": "2018-03-01T20:35:08.000Z",
+    "statusChanged": "2018-03-01T20:39:52.000Z",
+    "lastLogin": "2018-04-23T22:32:26.000Z",
+    "lastUpdated": "2018-03-01T20:39:53.000Z",
+    "passwordChanged": "2018-03-01T20:39:52.000Z",
+    "profile": {
+      "firstName": "Markus",
+      "lastName": "Greystone",
+      "mobilePhone": null,
+      "secondEmail": null,
+      "login": "mgreystone@articulate.com",
+      "email": "mgreystone@articulate.com"
+    },
+    "credentials": {
+      "password": {},
+      "recovery_question": {
+        "question": "What is the food you least liked as a child?"
+      },
+      "provider": {
+        "type": "OKTA",
+        "name": "OKTA"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://rise-dev.oktapreview.com/api/v1/users/00ue6j9ye2XsDYZ9H0h7"
+      }
+    }
+  },
+  {
+    "id": "00ue6jhcgmIXpqzXp0h7",
+    "status": "ACTIVE",
+    "created": "2018-03-01T20:35:44.000Z",
+    "activated": "2018-03-01T20:35:44.000Z",
+    "statusChanged": "2018-03-02T03:03:36.000Z",
+    "lastLogin": "2018-03-02T03:03:37.000Z",
+    "lastUpdated": "2018-03-02T03:03:37.000Z",
+    "passwordChanged": "2018-03-02T03:03:36.000Z",
+    "profile": {
+      "firstName": "Jillian",
+      "lastName": "Silver",
+      "mobilePhone": null,
+      "secondEmail": null,
+      "login": "jsilver@articulate.com",
+      "email": "jsilver@articulate.com"
+    },
+    "credentials": {
+      "password": {},
+      "recovery_question": {
+        "question": "Where did you meet your spouse/significant other?"
+      },
+      "provider": {
+        "type": "OKTA",
+        "name": "OKTA"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://rise-dev.oktapreview.com/api/v1/users/00ue6jhcgmIXpqzXp0h7"
+      }
+    }
+  },
+  {
+    "id": "00uelojjipmBlgbCE0h7",
+    "status": "ACTIVE",
+    "created": "2018-04-06T18:23:06.000Z",
+    "activated": "2018-04-06T18:23:37.000Z",
+    "statusChanged": "2018-04-06T18:23:37.000Z",
+    "lastLogin": "2018-04-10T13:40:36.000Z",
+    "lastUpdated": "2018-04-06T18:23:37.000Z",
+    "passwordChanged": "2018-04-06T18:23:06.000Z",
+    "profile": {
+      "firstName": "Markus",
+      "lastName": "Greystone",
+      "primaryPhone": "000-000-0000",
+      "mobilePhone": null,
+      "organization": "Fox",
+      "tenantId": "eb162532-2d12-40b9-bf1f-d50dc70e14a6",
+      "secondEmail": null,
+      "login": "HyUMi4Bjf/mgreystone@articulate.com",
+      "email": "mgreystone@articulate.com"
+    },
+    "credentials": {
+      "password": {},
+      "provider": {
+        "type": "OKTA",
+        "name": "OKTA"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://rise-dev.oktapreview.com/api/v1/users/00uelojjipmBlgbCE0h7"
+      }
+    }
+  },
+  {
+    "id": "00uemzpqrkBfa3Jg70h7",
+    "status": "ACTIVE",
+    "created": "2018-04-10T13:39:53.000Z",
+    "activated": "2018-04-10T13:39:53.000Z",
+    "statusChanged": "2018-04-10T13:39:53.000Z",
+    "lastLogin": "2018-04-10T13:39:54.000Z",
+    "lastUpdated": "2018-10-03T19:52:32.000Z",
+    "passwordChanged": "2018-04-10T13:39:53.000Z",
+    "profile": {
+      "firstName": "Some",
+      "lastName": "Learner",
+      "postalAddress": "1234 Testing St",
+      "mobilePhone": null,
+      "tenantId": "eb162532-2d12-40b9-bf1f-d50dc70e14a6",
+      "secondEmail": null,
+      "login": "HyUMi4Bjf/learner@banit.club",
+      "email": "learner@banit.club"
+    },
+    "credentials": {
+      "password": {},
+      "provider": {
+        "type": "OKTA",
+        "name": "OKTA"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://rise-dev.oktapreview.com/api/v1/users/00uemzpqrkBfa3Jg70h7"
+      }
+    }
+  },
+  {
+    "id": "00uercp0eyep1OZmH0h7",
+    "status": "ACTIVE",
+    "created": "2018-04-18T18:24:56.000Z",
+    "activated": "2018-04-18T18:25:25.000Z",
+    "statusChanged": "2018-04-18T18:25:25.000Z",
+    "lastLogin": "2018-04-20T14:19:06.000Z",
+    "lastUpdated": "2018-04-18T18:25:25.000Z",
+    "passwordChanged": "2018-04-18T18:24:56.000Z",
+    "profile": {
+      "firstName": "Markus",
+      "lastName": "Greystone",
+      "primaryPhone": "000-000-0000",
+      "mobilePhone": null,
+      "organization": "Raven",
+      "tenantId": "73103697-0e8f-4319-a8ac-7a10631bf38c",
+      "secondEmail": null,
+      "login": "rJvK6Wr3f/mgreystone@articulate.com",
+      "email": "mgreystone@articulate.com"
+    },
+    "credentials": {
+      "password": {},
+      "provider": {
+        "type": "OKTA",
+        "name": "OKTA"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://rise-dev.oktapreview.com/api/v1/users/00uercp0eyep1OZmH0h7"
+      }
+    }
+  },
+  {
+    "id": "00ues3bn54qyh39cw0h7",
+    "status": "ACTIVE",
+    "created": "2018-04-20T13:55:59.000Z",
+    "activated": "2018-04-20T13:56:31.000Z",
+    "statusChanged": "2018-04-20T13:56:31.000Z",
+    "lastLogin": "2018-04-20T14:09:26.000Z",
+    "lastUpdated": "2018-04-20T13:56:31.000Z",
+    "passwordChanged": "2018-04-20T13:55:59.000Z",
+    "profile": {
+      "firstName": "Markus",
+      "lastName": "Greystone",
+      "primaryPhone": "000-000-0000",
+      "mobilePhone": null,
+      "organization": "Snake",
+      "tenantId": "6a48714f-c115-48a6-8023-8b7388f2f439",
+      "secondEmail": null,
+      "login": "rJBu-OD3z/mgreystone@articulate.com",
+      "email": "mgreystone@articulate.com"
+    },
+    "credentials": {
+      "password": {},
+      "provider": {
+        "type": "OKTA",
+        "name": "OKTA"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://rise-dev.oktapreview.com/api/v1/users/00ues3bn54qyh39cw0h7"
+      }
+    }
+  },
+  {
+    "id": "00uevfo1d3renjDSI0h7",
+    "status": "ACTIVE",
+    "created": "2018-04-30T23:21:17.000Z",
+    "activated": "2018-04-30T23:21:17.000Z",
+    "statusChanged": "2018-04-30T23:22:29.000Z",
+    "lastLogin": "2018-10-12T15:58:48.000Z",
+    "lastUpdated": "2018-05-14T15:01:44.000Z",
+    "passwordChanged": "2018-04-30T23:22:29.000Z",
+    "profile": {
+      "firstName": "terraform",
+      "lastName": "system",
+      "mobilePhone": null,
+      "secondEmail": null,
+      "login": "platform@articulate.com",
+      "email": "platform@articulate.com"
+    },
+    "credentials": {
+      "password": {},
+      "recovery_question": {
+        "question": "What was the first computer game you played?"
+      },
+      "provider": {
+        "type": "OKTA",
+        "name": "OKTA"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://rise-dev.oktapreview.com/api/v1/users/00uevfo1d3renjDSI0h7"
+      }
+    }
+  },
+  {
+    "id": "00uf1a4nn6KscQWAN0h7",
+    "status": "ACTIVE",
+    "created": "2018-05-14T20:56:33.000Z",
+    "activated": "2018-05-14T20:56:33.000Z",
+    "statusChanged": "2018-05-14T21:05:11.000Z",
+    "lastLogin": "2018-05-14T21:05:12.000Z",
+    "lastUpdated": "2018-05-14T21:05:12.000Z",
+    "passwordChanged": "2018-05-14T21:05:11.000Z",
+    "profile": {
+      "firstName": "Don",
+      "lastName": "O'Neill",
+      "mobilePhone": null,
+      "secondEmail": null,
+      "login": "don.oneill@articulate.com",
+      "email": "don.oneill@articulate.com"
+    },
+    "credentials": {
+      "password": {},
+      "recovery_question": {
+        "question": "Where did you go for your favorite vacation?"
+      },
+      "provider": {
+        "type": "OKTA",
+        "name": "OKTA"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://rise-dev.oktapreview.com/api/v1/users/00uf1a4nn6KscQWAN0h7"
+      }
+    }
+  },
+  {
+    "id": "00ugcrw8b1CaZHvVi0h7",
+    "status": "ACTIVE",
+    "created": "2018-09-24T20:20:26.000Z",
+    "activated": "2018-09-24T20:20:27.000Z",
+    "statusChanged": "2018-09-24T20:20:27.000Z",
+    "lastLogin": "2018-09-27T14:22:31.000Z",
+    "lastUpdated": "2018-09-24T20:20:27.000Z",
+    "passwordChanged": "2018-09-24T20:20:27.000Z",
+    "profile": {
+      "firstName": "Andy",
+      "lastName": "Gertjejansen",
+      "mobilePhone": null,
+      "secondEmail": "andy@articulate.com",
+      "login": "andy@articulate.com",
+      "email": "andy@articulate.com"
+    },
+    "credentials": {
+      "password": {},
+      "provider": {
+        "type": "OKTA",
+        "name": "OKTA"
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://rise-dev.oktapreview.com/api/v1/users/00ugcrw8b1CaZHvVi0h7"
+      }
+    }
+  }
+]
